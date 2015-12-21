@@ -1,0 +1,6 @@
+pageclasses\SearchPage2.class
+pageclasses\SearchPageFactory.class
+com\expedia\flightsbooking\TestNG_TestSuite.class
+pageclasses\SearchPageFactory2.class
+com\expedia\flightsbooking\TestNG_Grouping.class
+pageclasses\SearchPage.class
